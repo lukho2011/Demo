@@ -8,6 +8,11 @@ next-env.d.ts
 .DS_Store
 profile.txt
 
+# Deployment
+.vercel
+.vercel-tmp
+
 # Confidential client material must never be committed
 Harbourview - Profile.pdf
 *.pdf
+.vercel

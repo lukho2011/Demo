@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+.env*
+npm-debug.log*
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+profile.txt
+
+# Confidential client material must never be committed
+Harbourview - Profile.pdf
+*.pdf
